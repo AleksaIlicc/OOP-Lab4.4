@@ -1,0 +1,7 @@
+﻿  Source.cpp
+E:\CPP\LAB\Cetvrta lab vezba\Project1\Project1\AzdajinPut.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\CPP\LAB\Cetvrta lab vezba\Project1\Project1\Source.cpp(20,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\CPP\LAB\Cetvrta lab vezba\Project1\Project1\Source.cpp(31,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\CPP\LAB\Cetvrta lab vezba\Project1\Project1\Source.cpp(43,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\CPP\LAB\Cetvrta lab vezba\Project1\Project1\Source.cpp(9,9): warning C4101: 'broj': unreferenced local variable
+  Project1.vcxproj -> E:\CPP\LAB\Cetvrta lab vezba\Project1\x64\Debug\Project1.exe
